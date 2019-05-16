@@ -1,3 +1,8 @@
+# Trello React
+This is a non-functional clone of trello made with React
+
+![frello](/frello.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
